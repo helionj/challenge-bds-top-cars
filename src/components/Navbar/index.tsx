@@ -8,7 +8,7 @@ const Navbar = () => {
           <h4>Carros Top</h4>
         </a>
         <button
-          className="navbar-toggler"
+          className="navbar-toggler custom-toggler"
           type="button"
           data-bs-toggle="collapse"
           data-bs-target="#carros-top-navbar"
@@ -16,7 +16,7 @@ const Navbar = () => {
           aria-expanded="false"
           aria-label="Toggle navigation"
         >
-          <span className="navbar-toggler-icon"></span>
+          <span className="navbar-toggler-icon custom-toggler-icon"></span>
         </button>
 
         <div className="collapse navbar-collapse" id="carros-top-navbar">
