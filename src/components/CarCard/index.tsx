@@ -5,7 +5,7 @@ const CarCard = () => {
   return (
     <div className="base-card car-card">
       <div className="card-top-container">
-        <img src={CarImage} />
+        <img src={CarImage} alt= "car"/>
       </div>
       <div className="card-bottom-container">
         <h5>Audi Supra TT</h5>

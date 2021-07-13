@@ -13,7 +13,7 @@ const Home = () => {
           </p>
         </div>
         <div className="main-card-image-container">
-          <img src={MainImage} />
+          <img src={MainImage} alt=""/>
         </div>
       </div>
       <div className="bottom-card">
