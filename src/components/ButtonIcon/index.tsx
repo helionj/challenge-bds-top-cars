@@ -1,4 +1,4 @@
-import './styles.css'
+
 const ButtonIcon = () => {
     return(
         <button className= "btn btn-icon">
